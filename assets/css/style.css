@@ -1,10 +1,3 @@
-/**
-* Template Name: iPortfolio - v3.10.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -228,7 +221,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/pic 4.jpg") top center;
+  background: url("../img/hero.jpg") top center;
   background-size: cover;
 }
 
@@ -254,7 +247,7 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color:cyan;
 }
 
 #hero p {
@@ -265,7 +258,7 @@ h6 {
 }
 
 #hero p span {
-  color: #fff;
+  color: #f01111;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -417,7 +410,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -442,7 +435,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #dce8f8;
+  background: #f9fafc;
   height: 10px;
 }
 
@@ -450,8 +443,9 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color:blue;
 }
+
 
 /*--------------------------------------------------------------
 # Resume
